@@ -6,6 +6,8 @@ VL53L5CX（8x8 ToF距離センサー）をM5Stackで扱いやすくするため�
 
 ## 概要
 
+![](images/product_01.png)
+
 STMicroelectronics製のVL53L5CX（8x8ゾーンのToF距離センサー）を搭載したユニットで、M5Stackに直接接続して使用できます。  
 Grove（I2C）接続により、配線を気にせず距離マップの取得を手軽に実現できます。
 
