@@ -72,6 +72,12 @@ VL53L5CXの基本動作確認
 手の形（グー・チョキ・パー）によるじゃんけんポーズ判定
 
 
+![](images/RockPaperScissors_Scissors.png)
+
+
+
+
+
 ---
 
 ## 購入先
