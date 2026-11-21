@@ -84,7 +84,14 @@ VL53L5CXの基本動作確認
 
 [スイッチサイエンス](https://www.switch-science.com/search?q=xmakers)
 
-[BASE](https://xmakers.base.shop/)
+[BASE](https://xmakers.base.shop/items/153499934?utm_source=github)
+
+---
+
+## 解説記事（note）
+
+- [距離を「点」ではなく「面」で測るToFユニット](https://note.com/xmakers/n/n0a0d34098ebb)
+- [指差しの向きが、64点の距離で分かる。ToFセンサーで8方向を認識してみた](https://note.com/xmakers/n/nb2e458a491fc)
 
 ---
 
