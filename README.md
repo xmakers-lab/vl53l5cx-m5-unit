@@ -82,9 +82,9 @@ VL53L5CXの基本動作確認
 
 ## 購入先
 
-[スイッチサイエンス](https://www.switch-science.com/search?q=xmakers)
+[スイッチサイエンス](https://www.switch-science.com/collections/all/cat:%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%EF%BC%88%E5%A7%94%E8%A8%97%E5%95%86%E5%93%81%EF%BC%89_XMAKERS)
 
-[BASE](https://xmakers.base.shop/items/153499934?utm_source=github)
+[BASE](https://xmakers.base.shop/)
 
 ---
 
